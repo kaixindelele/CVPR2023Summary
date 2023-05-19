@@ -1,5 +1,5 @@
 # CVPR2023Summary
-CVPR2023所有论文批量下载和利用ChatPaper批量总结
+CVPR2023所有论文批量下载和利用ChatPaper批量总结，如果对大家有帮助，欢迎点个star。
 
 
 ## CVPR2023所有PDF打包下载地址：
