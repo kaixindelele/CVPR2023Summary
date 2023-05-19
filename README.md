@@ -23,4 +23,6 @@ https://www.aliyundrive.com/s/QCmJNbUQRPb
 
 点击链接保存，或者复制本段内容，打开「阿里云盘」APP.
 
+还有3个小时才能同步完毕，请稍等。
+
 ## ChatPaper的总结需要一天左右更新
