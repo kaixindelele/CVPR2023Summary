@@ -23,6 +23,6 @@ https://www.aliyundrive.com/s/QCmJNbUQRPb
 
 点击链接保存，或者复制本段内容，打开「阿里云盘」APP.
 
-有两篇文章有破损。
+有两篇文章有破损。Rivas-Manzaneque_NeRFLight_Fast_and_Light_Neural_Radiance_Fields_Using_a_Shared_CVPR_2023_paper.pdf这篇文章官网给的链接就是坏的。
 
 ## ChatPaper的总结需要一天左右更新
