@@ -32,6 +32,9 @@ https://www.aliyundrive.com/s/QCmJNbUQRPb
 后面我们将同步到我们的官网上chatpaper.org中，可以根据chat的对话形式来获得自己感兴趣的论文总结。
 
 我先放几个demo：
+## 解析示例
+
+<details><summary><code>查看第一篇解析结果</code></summary>
 
 # Paper:1     多重退出：加速统一视觉语言模型的动态早期退出
 
@@ -71,7 +74,9 @@ Early Exiting, Vision Language Model, Sequence-to-Sequence Architecture, Encoder
 
 #### 9. 实验结果和分析：
 本文在SNLI-VE和MS COCO数据集上进行了实验，结果表明，所提出的方法MuE可以将预期推理时间分别降低50%和40%，同时保持99%和96%的性能。MuE在预期时间减少率和任务性能方面优于几种最先进的早期退出方法，包括PABEE、DeeCap和DeeBERT。作者还进行了消融实验，结果表明，没有分解策略和训练目标的模型性能最差。在图像字幕生成中，缺少所提出的层内任务损失会导致性能和预期时间减少率的大幅下降。所提出的层内任务损失能够在解码的每个时间步骤上减少错误，这对最终结果有益。所有实验结果都是在视觉蕴含和图像字幕生成中得分和预期时间减少率之间的最佳平衡。
+</details>
 
+<details><summary><code>查看第一篇解析结果</code></summary>
 
 # Paper:2     探测开放世界中的一切：通用目标检测
 
@@ -111,7 +116,9 @@ Universal Object Detection, Open World, Multi-Source Images, Heterogeneous Label
 
 #### 9. 实验结果和分析：
 本文在多个数据集上评估了UniDetector的性能。在COCO数据集上，UniDetector的检测AP为49.3%，超过了现有的最佳封闭世界检测模型。在开放世界数据集上，UniDetector在13个ODinW数据集上的平均AP为47.3%，优于GLIP-T，具有更高的数据效率。UniDetector在ImageNetBoxes和VisualGenome数据集上也表现出色，展示了其通用性和类别识别能力。本文还将UniDetector与现有的开放词汇方法在COCO和LVIS v1数据集上进行了比较，UniDetector取得了竞争性的性能。
+</details>
 
+<details><summary><code>查看第一篇解析结果</code></summary>
 
 # Paper:3     WIRE：小波隐式神经表示
 
@@ -148,5 +155,6 @@ Implicit neural representations, wavelet transform, Gabor wavelet, image process
 #### 9. 实验结果与分析：
 本文的实验结果表明，WIRE在所有信号类别的表示学习中都比现有技术更快更准确。WIRE还适用于解决具有有限测量或测量受到噪声干扰的大类逆问题。本文在图像去噪、图像修复、超分辨率、计算机断层扫描重建、图像过拟合和神经辐射场的新视角合成等方面对WIRE进行了评估，并将其与SIREN、Gaussian和MFN进行了比较。实验结果表明，WIRE在准确性和收敛速度方面均优于其他非线性激活函数，且对于图像或噪声统计的精确信息要求较低。
 
+</details>
 
 
