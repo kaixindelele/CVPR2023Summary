@@ -1,5 +1,6 @@
 # CVPR2023Summary
 CVPR2023所有论文批量下载和利用ChatPaper批量总结，如果对大家有帮助，欢迎点个star。
+![QQ图片20230402203458](https://github.com/kaixindelele/CVPR2023Summary/assets/28528386/2df91c3e-955c-476f-9e38-96b629982835)
 
 
 ## CVPR2023所有PDF打包下载地址：
