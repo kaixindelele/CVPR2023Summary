@@ -1,4 +1,7 @@
 # CVPR2023Summary
+
+## 5.27 所有的论文都用ChatPaper进行了总结了！大家可以免费下载，如果对大家有帮助，欢迎点个star。
+
 CVPR2023所有论文批量下载和利用ChatPaper批量总结，如果对大家有帮助，欢迎点个star。
 
 <a href="https://github.com/kaixindelele/ChatPaper">
